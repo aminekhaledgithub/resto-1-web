@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/resto-1-web/static/css/main.48c56122.css",
+    "main.js": "/resto-1-web/static/js/main.099b0f9e.js",
+    "static/media/resto-img-logo.avif": "/resto-1-web/static/media/resto-img-logo.b99573c39a09e341d1eb.avif",
+    "index.html": "/resto-1-web/index.html",
+    "main.48c56122.css.map": "/resto-1-web/static/css/main.48c56122.css.map",
+    "main.099b0f9e.js.map": "/resto-1-web/static/js/main.099b0f9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c56122.css",
+    "static/js/main.099b0f9e.js"
+  ]
+}
